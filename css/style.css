@@ -105,10 +105,8 @@ a {
 
 /* Dropdown */
   .dropdown {
-    /* float: right; */
     overflow: hidden;
     margin: auto;
- 
   }
   
   .dropdown .dropbtn {
